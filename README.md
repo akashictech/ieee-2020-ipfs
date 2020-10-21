@@ -1,4 +1,4 @@
-# Building Distributed High Availability Web Applications with IPFS
+# Building Distributed High Availability Web Apps with IPFS
 
 ## IPFS Crash Course Presentation
 
