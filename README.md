@@ -2,7 +2,7 @@
 
 ## IPFS Crash Course Presentation
 
-* [Slideshow](/)
+* [Slideshow](./IPFS_Crash_Course.pdf)
 
 ## Deploying a Web Application to the IPFS Network
 
@@ -170,7 +170,7 @@ npm run export
 
 This will create an `out` folder that contains our frontend.
 
-Now let's use a popular IPFS pinning service to **Pinata**. Pinata hosts a global network of IPFS nodes to back files on the IPFS network. We can access Pinata by navigating to [https://pinata.cloud](https://pinata.cloud).
+Now let's use a popular IPFS pinning service **Pinata**. Pinata hosts a network of IPFS nodes to back files on the global IPFS network. We can access Pinata by navigating to [https://pinata.cloud](https://pinata.cloud).
 
 Pinata runs a simple web upload tool that allows developers to easily pin a directory on the IPFS network.
 
